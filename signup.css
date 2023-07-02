@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.card{
+   margin: 100px auto;
+    width: 350px;
+    height: 450px;
+}
+.login-card{
+    border-radius: 4px;
+    background-color: #fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold',
+     sans-serif
+}
+span{
+    margin: 10px;
+   
+}
+input{
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+    
+}
+.signup-close{
+    height: 24px;
+}
+.signup-button{
+    
+    margin-top: 20px;
+    border-radius: 4px;
+    height: 40px;
+    color: #fff;
+    background-color: black;
+    width:150px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
